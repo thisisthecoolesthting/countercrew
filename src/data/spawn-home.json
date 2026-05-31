@@ -1,0 +1,78 @@
+{
+  "brand": {
+    "shortName": "Counter Crew",
+    "fullName": "Counter Crew",
+    "taglineShort": "Small-appliance picks for tight countertops.",
+    "identity": {
+      "palette": {
+        "primary": "#B45309",
+        "accent": "#059669",
+        "cream": "#FFFBEB",
+        "ink": "#1C1917"
+      },
+      "fonts": {
+        "display": "Inter",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "mark": {
+        "svgPath": "",
+        "svgPublicPath": "",
+        "sizeRem": 1.5,
+        "position": "none"
+      },
+      "wordmark": {
+        "weight": 600,
+        "tracking": "tight",
+        "case": "normal"
+      },
+      "headerVariant": "minimal",
+      "eyebrowText": "HOME & KITCHEN",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
+    }
+  },
+  "persona": {
+    "ymyl": false,
+    "tone": "practical-tester"
+  },
+  "editorial": {
+    "authorSlug": "_default",
+    "author_slug": "_default",
+    "methodology": [
+      "We measure width, depth, and height on every appliance with a steel rule \u2014 not manufacturer rounding.",
+      "Each pick is evaluated for cord length, vent clearance, and cabinet swing interference.",
+      "Pricing is re-checked weekly; stale affiliate links are removed within 7 days.",
+      "We disclose every affiliate relationship in plain English at the top of the relevant article.",
+      "Reader corrections are answered within 72 hours and folded into the article when valid."
+    ],
+    "ymyl": false
+  },
+  "newsletter": {
+    "title": "The Counter Crew weekly",
+    "subtitle": "Practical picks and straight answers from Counter Crew, once a week. No spam.",
+    "kicker": "Stay in the loop"
+  },
+  "supportEmail": "hello@countercrew.org",
+  "defaultAuthorSlug": "morgan-ellis-countercrew",
+  "defaultMetaDescription": "We measure footprint, height, and cord reach on air fryers, coffee gear, blenders, and toasters built for small kitchens. No sponsor samples without disclosure.",
+  "homepage": {
+    "eyebrow": "Countertop appliances",
+    "h1": "Appliances that fit your counter \u2014 not the other way around.",
+    "subhead": "We measure footprint, height, and cord reach on air fryers, coffee gear, blenders, and toasters built for small kitchens. No sponsor samples without disclosure.",
+    "ctaPrimaryLabel": "Read reviews",
+    "ctaPrimaryHref": "/articles",
+    "ctaSecondaryLabel": "How we test",
+    "ctaSecondaryHref": "/how-we-test",
+    "trustLine": "Affiliate links only on gear we would buy for our own counters.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1556909114-f6e7ad7d4046?w=1600&q=85"
+  },
+  "about": {
+    "headline": "Why Counter Crew exists",
+    "body": "Most appliance reviews ignore the counter. Counter Crew starts with the footprint: width, depth, height, and clearance for cabinets and outlets. We test small-kitchen staples \u2014 air fryers, drip and pod coffee, immersion blenders, two-slice toasters \u2014 and say plainly when something is too big for a standard rental galley."
+  },
+  "analytics": {
+    "ga_measurement_id": "",
+    "ga_property_id": "",
+    "search_console_property": "https://countercrew.org/"
+  }
+}
