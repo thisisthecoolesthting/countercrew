@@ -13,8 +13,8 @@ imageUrl: ""
 affiliateUrl: "https://www.amazon.com/dp/B0CYJCQHFL?tag=countercrew-20"
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: "2026-06-02"
+lastSeen: "2026-06-02"
 slug: b0cyjcqhfl-b0cyjcqhfl
 cardTitle: B0CYJCQHFL
 cardPick: Solid pick for most readers
@@ -31,7 +31,7 @@ We weight verified owner feedback alongside spec fit for the niche.
 
 Popularity shifts with promos; we re-check listings during refresh passes.
 
-Last catalog check: **2026-06-01**.
+Last catalog check: **2026-06-02**.
 
 ## Who it's for
 
@@ -62,10 +62,3 @@ Our desk scores **value**, **spec clarity**, and **review credibility** for gene
 ---
 
 *Affiliate disclosure: purchasing through our Amazon link may support this site at no extra cost to you.*
-
-## In our catalog
-
-- [Immersion blenders with minimal counter footprint](/articles/immersion-blenders-with-minimal-counter-footprint/)
-- [Compact espresso machines that fit rental counters](/articles/compact-espresso-machines-that-fit-rental-counters/)
-- [2-drip-coffee-makers-under-12-inches-wide](/articles/2-drip-coffee-makers-under-12-inches-wide/)
-- [1-best-compact-air-fryers-small-counters](/articles/1-best-compact-air-fryers-small-counters/)

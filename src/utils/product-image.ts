@@ -21,9 +21,14 @@ export function localProductImagePath(slug: string): string {
   return `/images/products/${slug}.jpg`;
 }
 
+import { AMAZON_INLINE_IMAGE_BY_ASIN } from '@/lib/amazon-inline-image-map.mjs';
+
 export function amazonAsinImageUrl(asin: string): string {
   const id = asin.trim().toUpperCase();
-  return `https://m.media-amazon.com/images/P/${id}.01._SL500_.jpg`;
+  if (!id) return FALLBACK_SVG;
+  const mapped = (AMAZON_INLINE_IMAGE_BY_ASIN as Record<string, string>)[id];
+  if (mapped?.startsWith('http')) return mapped;
+  return `/images/amazon-picks/${id}.jpg`;
 }
 
 /** Prefer m.media-amazon.com — survives hotlink better than legacy ssl-images host. */
@@ -73,7 +78,7 @@ async function remoteUrlOk(url: string): Promise<boolean> {
   try {
     const res = await fetch(url, {
       method: 'HEAD',
-      headers: { 'User-Agent': 'SSCBuild/1.0' },
+      headers: { 'User-Agent': 'Counter CrewBuild/1.0' },
       redirect: 'follow',
     });
     if (!res.ok) return false;
