@@ -151,11 +151,13 @@
       "list_id": ""
     },
     "phone_case_promo": {
-      "enabled": false,
+      "enabled": true,
       "store_url": "https://phonecasesforall.com",
-      "headline": "",
-      "subhead": "",
-      "cta": "",
+      "brand_name": "Phone Cases For All",
+      "headline": "Custom phone cases · free shipping",
+      "subhead": "iPhone & Samsung designs — ships from our print shop.",
+      "cta": "Shop cases →",
+      "sponsor_line": "Counter Crew is sponsored by Phone Cases For All. If a case would help your phone, supporting them keeps our appliance guides free to read.",
       "utm_campaign": "countercrew.org"
     }
   },

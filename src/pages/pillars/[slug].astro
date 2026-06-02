@@ -4,6 +4,7 @@ import NewsletterForm from '@/components/NewsletterForm.astro';
 import AuthorByline from '@/components/AuthorByline.astro';
 import MedicalDisclaimer from '@/components/MedicalDisclaimer.astro';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure.astro';
+import PhoneCasePromo from '@/components/PhoneCasePromo.astro';
 import TopPicksBlock from '@/components/TopPicksBlock.astro';
 import ArticleToC from '@/components/ArticleToC.astro';
 import { getCollection, getEntry } from 'astro:content';
@@ -79,40 +80,43 @@ const h1Text = entry.data.targetKeyword
 >
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 
-  <div class="max-w-6xl mx-auto px-5 py-12 md:py-16 pb-20 flex gap-12 xl:gap-16 items-start">
+  <div class="max-w-6xl mx-auto px-5 py-5 md:py-7 pb-12 flex gap-8 xl:gap-10 items-start">
     <ArticleToC />
 
     <article class="min-w-0 flex-1">
       {showMedical && <MedicalDisclaimer />}
 
-      <header class="mb-8">
-        <h1 class="font-display text-4xl md:text-5xl text-ink-900 mb-3 !mt-0">{h1Text}</h1>
-        <AffiliateDisclosure />
+      <header class="mb-3">
+        <h1 class="font-display text-2xl md:text-3xl text-ink-900 mb-2 !mt-0 leading-tight">{h1Text}</h1>
+        <AffiliateDisclosure compact />
+        <PhoneCasePromo placement="top" />
+        <PhoneCasePromo placement="sponsor" />
       </header>
 
+      {entry.data.heroImage && (
+        <figure class="mb-5 -mx-4 md:mx-0">
+          <img
+            src={entry.data.heroImage}
+            alt={entry.data.title}
+            loading="eager"
+            class="w-full h-auto rounded-2xl object-cover aspect-[16/9] max-h-[280px] shadow-soft"
+          />
+        </figure>
+      )}
+
+      <div class="prose prose-ink max-w-none">
+        <Content />
+      </div>
+
       <AuthorByline
+        variant="footer"
         authorSlug={authorSlug}
         publishedAt={entry.data.publishedAt}
         reviewedAt={entry.data.reviewedAt ?? entry.data.updatedAt}
       />
 
-      {entry.data.heroImage && (
-        <figure class="mb-10 -mx-4 md:mx-0">
-          <img
-            src={entry.data.heroImage}
-            alt={entry.data.title}
-            loading="eager"
-            class="w-full h-auto rounded-3xl object-cover aspect-[16/9] max-h-[540px] shadow-soft"
-          />
-        </figure>
-      )}
-
-      <div class="prose prose-lg prose-ink max-w-none">
-        <Content />
-      </div>
-
       {author && (
-        <aside class="not-prose my-10 flex gap-5 items-start p-6 bg-cream-100 rounded-2xl border border-cream-200/60">
+        <aside class="not-prose mt-4 flex gap-5 items-start p-4 bg-cream-100 rounded-xl border border-cream-200/60">
           <a href={`/authors/${author.slug}/`} class="shrink-0">
             <img
               src={author.data.photoUrl}
