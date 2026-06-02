@@ -35,8 +35,8 @@ hero_image_keywords:
 - wattage appliances
 heroImage: https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Wattage and breaker limits for small kitchen appliances"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 When outfitting a small kitchen, understanding the wattage and breaker limits for small kitchen appliances can be a real game-changer. Knowing how much power your appliances draw—and how that fits into your home’s electrical setup—not only keeps your kitchen running smoothly but also protects your circuit breakers from unexpected trips.
 
 ## Key takeaways

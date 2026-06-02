@@ -34,8 +34,8 @@ hero_image_keywords:
 - compact cabinets
 heroImage: https://images.unsplash.com/photo-1507048331197-7d4ac726ccc0?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Compact juicers that fit under upper cabinets"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Compact juicers that fit under upper cabinets are a game changer for anyone with limited kitchen space. Finding a device that balances power, performance, and a small footprint means you can enjoy fresh juice daily without the clutter — I’ve tested dozens to find models sleek enough to slide right under those low-hanging cabinets.
 
 ## Key takeaways
@@ -162,3 +162,11 @@ Not necessarily. While smaller centrifugal juicers might produce slightly more f
 ---
 
 If you're juggling space constraints but don’t want to miss out on fresh, wholesome juice every day, compact juicers that fit under upper cabinets offer a smart, practical solution. Happy juicing!
+
+## Related reading
+
+- [2-drip-coffee-makers-under-12-inches-wide](/articles/2-drip-coffee-makers-under-12-inches-wide/)
+- [Blender jars that store in a cabinet vs on the counter](/articles/blender-jars-that-store-in-a-cabinet-vs-on-the-counter/)
+- [Measuring cabinet swing clearance above appliances](/articles/measuring-cabinet-swing-clearance-above-appliances/)
+- [Compact espresso machines that fit rental counters](/articles/compact-espresso-machines-that-fit-rental-counters/)
+- [1-best-compact-air-fryers-small-counters](/articles/1-best-compact-air-fryers-small-counters/)

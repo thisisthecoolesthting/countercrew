@@ -35,8 +35,8 @@ hero_image_keywords:
 - toaster limited
 heroImage: https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Toaster ovens vs air fryers when counter depth is limited"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 When counter space is non-negotiable, choosing between toaster ovens vs air fryers becomes a serious game of trade-offs — especially if your kitchen depth is limited. Both appliances promise convenience and versatility, but fitting the right one on a cramped countertop means understanding their footprints, functions, and what you really need day-to-day.
 
 ## Key takeaways

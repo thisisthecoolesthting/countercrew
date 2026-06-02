@@ -33,8 +33,8 @@ hero_image_keywords:
 - slow backsplash
 heroImage: https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Slow cookers that tuck against the backsplash"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Slow cookers that tuck against the backsplash are a game changer for anyone struggling with limited counter space. I’ve tested several models that not only deliver perfectly cooked meals but also fit snugly on the back of your countertop, making your kitchen feel more organized and spacious.
 
 ## Key takeaways
@@ -141,3 +141,11 @@ Yes. Provided you follow manufacturer instructions regarding placement and venti
 ---
 
 Choosing a slow cooker that tucks neatly against your backsplash has made my kitchen more functional and less cluttered. If you live in a space-conscious home, it’s a smart appliance upgrade that saves counter space while delivering delicious, slow-cooked meals day after day.
+
+## Related reading
+
+- [Counter organization trays for appliance zones](/articles/counter-organization-trays-for-appliance-zones/)
+- [Two-slice toasters footprint and cord clearance guide](/articles/two-slice-toasters-footprint-and-cord-clearance-guide/)
+- [Wattage and breaker limits for small kitchen appliances](/articles/wattage-and-breaker-limits-for-small-kitchen-appliances/)
+- [Milk frothers that fit in a drawer vs on the counter](/articles/milk-frothers-that-fit-in-a-drawer-vs-on-the-counter/)
+- [Best appliance bundles for first apartment kitchens](/articles/best-appliance-bundles-for-first-apartment-kitchens/)

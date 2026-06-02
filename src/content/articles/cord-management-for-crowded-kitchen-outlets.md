@@ -34,8 +34,8 @@ hero_image_keywords:
 - cord outlets
 heroImage: https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Cord management for crowded kitchen outlets"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Cord Management for Crowded Kitchen Outlets: Taming the Tangled Mess
 
 Managing cords in a crowded kitchen outlet area is a challenge I’ve repeatedly faced when juggling small appliances and limited counter space. Whether you’re a renter or homeowner with multiple gadgets vying for the same sockets, effective cord management can make all the difference in keeping your kitchen safe, functional, and visually tidy.

@@ -36,8 +36,8 @@ hero_image_keywords:
 - ninja kitchens
 heroImage: https://images.unsplash.com/photo-1495521821757-a1efb6729352?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Ninja vs Cosori air fryer footprint comparison for small kitchens"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Ninja vs Cosori air fryer footprint comparison for small kitchens is a common question for anyone trying to maximize counter space without sacrificing cooking versatility. After testing multiple models from both brands side-by-side, I can confidently break down the differences in size, capabilities, and kitchen fit to help you choose the best match for your small-space needs.
 
 ## Key takeaways
@@ -118,6 +118,14 @@ For super-tight setups or single users, the **Cosori 3.7 qt Mini** offers a whop
 | Cleaning ease         | Good                          | Excellent                     | Excellent          |
 
 ---
+
+## Related reading
+
+- [Waffle makers with the smallest base for breakfast counters](/articles/waffle-makers-with-the-smallest-base-for-breakfast-counters/)
+- [Best compact air fryers for small counters under 2 square feet](/articles/best-compact-air-fryers-for-small-counters-under-2-square-feet/)
+- [Toaster ovens vs air fryers when counter depth is limited](/articles/toaster-ovens-vs-air-fryers-when-counter-depth-is-limited/)
+- [1-best-compact-air-fryers-small-counters](/articles/1-best-compact-air-fryers-small-counters/)
+- [Two-slice toasters footprint and cord clearance guide](/articles/two-slice-toasters-footprint-and-cord-clearance-guide/)
 
 ## FAQ
 

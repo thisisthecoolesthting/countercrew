@@ -34,8 +34,8 @@ hero_image_keywords:
 - waffle counters
 heroImage: https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Waffle makers with the smallest base for breakfast counters"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Waffle makers with the smallest base for breakfast counters are a game-changer for anyone dealing with limited kitchen space. If you're a renter, a homeowner with a compact kitchen, or simply love a clutter-free countertop, finding a waffle maker that delivers tasty results without hogging your workspace is essential.
 
 ## Key takeaways
@@ -119,6 +119,14 @@ I also liked the **Hamilton Beach Flip Belgian Waffle Maker** for those who want
 - Position near power outlets but away from sink areas to avoid spills and mess.
 
 ---
+
+## Related reading
+
+- [Immersion blenders with minimal counter footprint](/articles/immersion-blenders-with-minimal-counter-footprint/)
+- [Portable induction cooktops for dorm and RV counters](/articles/portable-induction-cooktops-for-dorm-and-rv-counters/)
+- [Compact espresso machines that fit rental counters](/articles/compact-espresso-machines-that-fit-rental-counters/)
+- [Electric griddles with smallest footprint for breakfast prep](/articles/electric-griddles-with-smallest-footprint-for-breakfast-prep/)
+- [Counter organization trays for appliance zones](/articles/counter-organization-trays-for-appliance-zones/)
 
 ## FAQ
 

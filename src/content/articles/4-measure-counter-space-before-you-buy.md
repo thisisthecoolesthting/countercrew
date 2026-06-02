@@ -8,8 +8,8 @@ tags: ["counter-organization", "buying-guides"]
 status: published
 heroImage: https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=85
 cardTitle: "How to measure counter space before buying an appliance"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail – Counter Crew"
+---
 ## The Counter Crew measurement card
 
 Before we review any appliance, we fill out the same four-line card:

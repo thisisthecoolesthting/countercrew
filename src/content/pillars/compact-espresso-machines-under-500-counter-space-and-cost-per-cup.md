@@ -37,7 +37,8 @@ hero_image_keywords:
 - compact cup
 heroImage: https://images.unsplash.com/photo-1556909114-f6e7ad7d4046?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Compact espresso machines under $500: counter space and cost per cup"
-cardPick: "Measured at retail — Counter Crew"---
+cardPick: "Measured at retail — Counter Crew"
+---
 
 If you’re short on counter space but love a strong, rich espresso, finding a compact espresso machine under $500 can be a game changer. These machines fit neatly in tight kitchens without compromising the quality of your coffee, all while keeping your cost per cup reasonable.
 

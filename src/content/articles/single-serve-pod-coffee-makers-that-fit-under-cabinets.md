@@ -35,8 +35,8 @@ hero_image_keywords:
 - single-serve cabinets
 heroImage: https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Single-serve pod coffee makers that fit under cabinets"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Single-serve pod coffee makers that fit under cabinets are a blessing for anyone struggling with tight kitchen counter space. If you want your morning brew without sacrificing valuable real estate in your tiny kitchen or rental unit, these compact machines offer a sleek, space-savvy solution.
 
 ## Key takeaways
@@ -173,3 +173,11 @@ With regular cleaning and maintenance, most single-serve pod brewers last 3 to 5
 ---
 
 Choosing the right single-serve pod coffee maker that fits under your cabinets can completely change your kitchen experience, especially if you value counter space but need your coffee fix. After trying multiple models myself, I’m confident that there are fantastic options that don’t make you sacrifice style or function in small kitchens. Happy brewing!
+
+## Related reading
+
+- [Compact espresso machines that fit rental counters](/articles/compact-espresso-machines-that-fit-rental-counters/)
+- [2-drip-coffee-makers-under-12-inches-wide](/articles/2-drip-coffee-makers-under-12-inches-wide/)
+- [Best under-cabinet mounting ideas for coffee makers in rentals](/articles/best-under-cabinet-mounting-ideas-for-coffee-makers-in-rentals/)
+- [When a 4-slice toaster is too wide for your counter](/articles/when-a-4-slice-toaster-is-too-wide-for-your-counter/)
+- [Drip coffee makers under 12 inches wide for rental kitchens](/articles/drip-coffee-makers-under-12-inches-wide-for-rental-kitchens/)

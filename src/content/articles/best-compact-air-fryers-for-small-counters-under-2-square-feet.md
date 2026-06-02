@@ -34,8 +34,8 @@ hero_image_keywords:
 - compact feet
 heroImage: https://images.unsplash.com/photo-1495521821757-a1efb6729352?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Best compact air fryers for small counters under 2 square feet"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Cooking with an air fryer has become my go-to way to get crispy, tasty meals without the mess of deep-frying—and when counter space is tight, finding the best compact air fryer for small counters under 2 square feet is a game-changer. I’ve tested a range of models that pack power and features into a small footprint without crowding out your kitchen workspace.
 
 ## Key takeaways
@@ -170,3 +170,10 @@ They can for many tasks like roasting, baking small items, or air frying. Howeve
 ---
 
 Cutting down on kitchen clutter without compromising food quality is achievable, and a compact air fryer under 2 square feet can be the secret weapon in your cooking arsenal. Whether you’re a renter with limited workspace or just someone who prefers minimalist countertops, these models bring maximum flavor without taking up precious real estate. After testing the lineup, the Ninja AF101 and COSORI 2.6 Qt stood out as favorites for balancing size, power, and ease—two highly recommendable picks for almost any small kitchen.
+
+## Products in this guide
+
+- [B002CVTT4S](/products/b002cvtt4s-b002cvtt4s/)
+- [B00EI7DPI0](/products/b00ei7dpi0-b00ei7dpi0/)
+- [B018UQ5AMS](/products/b018uq5ams-b018uq5ams/)
+- [B078NN17K3](/products/b078nn17k3-b078nn17k3/)

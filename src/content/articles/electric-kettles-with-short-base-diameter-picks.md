@@ -35,8 +35,8 @@ hero_image_keywords:
 - electric picks
 heroImage: https://images.unsplash.com/photo-1556909114-f6e7ad7d4046?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Electric kettles with short base diameter picks"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Electric kettles with short base diameter picks are a game changer for anyone dealing with limited counter space or cramped kitchen setups. Whether you live in an apartment, have a small kitchenette, or just want a sleek addition to your morning routine, these compact kettles combine efficiency with minimal footprint.
 
 ## Key takeaways

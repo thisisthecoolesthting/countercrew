@@ -32,8 +32,8 @@ hero_image_keywords:
 - refurbished savings
 heroImage: https://images.unsplash.com/photo-1507048331197-7d4ac726ccc0?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Refurbished countertop appliances worth the savings"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Refurbished countertop appliances worth the savings save you money without sacrificing quality, especially when counter space is tight. As someone who's tested dozens of appliances to fit both small kitchens and budgets, I’ve found that refurbished models can offer great value when chosen carefully.
 
 ## Key takeaways

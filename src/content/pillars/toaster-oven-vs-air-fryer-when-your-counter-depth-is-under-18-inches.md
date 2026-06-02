@@ -36,7 +36,8 @@ hero_image_keywords:
 - toaster inches
 heroImage: https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Toaster oven vs air fryer when your counter depth is under 18 inches"
-cardPick: "Measured at retail — Counter Crew"---
+cardPick: "Measured at retail — Counter Crew"
+---
 
 When your kitchen counter depth is under 18 inches, choosing the right small appliance can be a challenge. The toaster oven vs air fryer debate gets even more crucial because space constraints demand smart, versatile, and compact options.
 

@@ -37,7 +37,8 @@ hero_image_keywords:
 - air clearance
 heroImage: https://images.unsplash.com/photo-1466637574441-749b8f194ff2?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Best air fryers for small kitchens: basket size wattage and cabinet clea"
-cardPick: "Measured at retail — Counter Crew"---
+cardPick: "Measured at retail — Counter Crew"
+---
 
 Air fryers have quickly become a must-have countertop appliance for small kitchens, blending convenience with healthy cooking in a compact package. Finding the best air fryer for your space involves balancing basket size, wattage, and cabinet clearance to fit tight quarters without sacrificing performance or capacity.
 

@@ -34,8 +34,8 @@ hero_image_keywords:
 - dishwasher-safe prioritizing
 heroImage: https://images.unsplash.com/photo-1507048331197-7d4ac726ccc0?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Dishwasher-safe parts on compact blenders worth prioritizing"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Dishwasher-safe parts on compact blenders are a game-changer for busy kitchens with limited counter space. Knowing which components you can toss in the dishwasher saves time and keeps your blender ready for the next smoothie or sauce without the hassle of scrubbing.
 
 ## Key takeaways

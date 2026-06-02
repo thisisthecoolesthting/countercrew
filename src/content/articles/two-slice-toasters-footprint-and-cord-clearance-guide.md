@@ -34,8 +34,8 @@ hero_image_keywords:
 - two-slice clearance
 heroImage: https://images.unsplash.com/photo-1466637574441-749b8f194ff2?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Two-slice toasters footprint and cord clearance guide"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Two-slice toasters footprint and cord clearance guide: finding the best compact toaster that fits your tight kitchen space doesn’t have to be a headache. Whether you’re in a small apartment or just trying to maximize limited counter area, understanding how toaster dimensions and cord length impact placement makes all the difference.
 
 ## Key takeaways

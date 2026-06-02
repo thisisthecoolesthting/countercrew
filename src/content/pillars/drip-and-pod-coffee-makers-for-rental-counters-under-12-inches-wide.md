@@ -37,7 +37,8 @@ hero_image_keywords:
 - drip wide
 heroImage: https://images.unsplash.com/photo-1466637574441-749b8f194ff2?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Drip and pod coffee makers for rental counters under 12 inches wide"
-cardPick: "Measured at retail — Counter Crew"---
+cardPick: "Measured at retail — Counter Crew"
+---
 
 Drip and pod coffee makers for rental counters under 12 inches wide are the ideal solution when you need a powerful brew without sacrificing precious countertop space. Whether you're working with a kitchenette, a dorm room, or a compact rental kitchen, these tiny brewers pack a punch while fitting comfortably in tight spots.
 

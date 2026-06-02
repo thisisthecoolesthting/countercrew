@@ -36,7 +36,8 @@ hero_image_keywords:
 - counter kitchens
 heroImage: https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Counter organization zones trays and vertical storage for appliance-heav"
-cardPick: "Measured at retail — Counter Crew"---
+cardPick: "Measured at retail — Counter Crew"
+---
 
 Counter organization zones trays and vertical storage for appliance-heavy kitchens
 

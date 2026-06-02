@@ -35,8 +35,8 @@ hero_image_keywords:
 - mini kitchens
 heroImage: https://images.unsplash.com/photo-1556909114-f6e7ad7d4046?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Mini food processors for apartment galley kitchens"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Mini Food Processors for Apartment Galley Kitchens  
 ====================================================
 
@@ -152,3 +152,11 @@ Mini processors are great for chopping, slicing, and small purees but won’t re
 ---
 
 In apartment galley kitchens, mini food processors are kitchen workhorses that help tackle daily meal prep without crowding your limited counters. By choosing a compact, powerful, and easy-to-clean model like those I’ve tested here, you can slice, chop, and blend your way through recipes without compromise. I’m excited to see how these small but mighty appliances transform your cooking routine!
+
+## Related reading
+
+- [Compact espresso machines that fit rental counters](/articles/compact-espresso-machines-that-fit-rental-counters/)
+- [Immersion blenders with minimal counter footprint](/articles/immersion-blenders-with-minimal-counter-footprint/)
+- [Toaster ovens vs air fryers when counter depth is limited](/articles/toaster-ovens-vs-air-fryers-when-counter-depth-is-limited/)
+- [Ninja vs Cosori air fryer footprint comparison for small kitchens](/articles/ninja-vs-cosori-air-fryer-footprint-comparison-for-small-kitchens/)
+- [Best compact air fryers for small counters under 2 square feet](/articles/best-compact-air-fryers-for-small-counters-under-2-square-feet/)

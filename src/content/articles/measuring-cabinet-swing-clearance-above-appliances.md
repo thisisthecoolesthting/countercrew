@@ -35,8 +35,8 @@ hero_image_keywords:
 - measuring appliances
 heroImage: https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Measuring cabinet swing clearance above appliances"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Measuring cabinet swing clearance above appliances is an essential step when planning or renovating a kitchen with limited space. Without accurate clearance measurements, cabinet doors can hit bulky appliances like refrigerators, ranges, or microwaves, leading to damage and frustrating usability.
 
 ## Key takeaways

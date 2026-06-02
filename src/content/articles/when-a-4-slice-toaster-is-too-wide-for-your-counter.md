@@ -30,8 +30,8 @@ hero_image_keywords:
 - slice counter
 heroImage: https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=85
 cardTitle: "When a 4-slice toaster is too wide for your counter"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 When a 4-slice toaster is too wide for your counter, finding a space-saving alternative can feel like hunting for a unicorn. With limited countertop real estate, especially in apartments or small kitchens, you need appliances that won't sacrifice function for size.
 
 ## Key takeaways

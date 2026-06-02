@@ -34,8 +34,8 @@ hero_image_keywords:
 - panini cabinets
 heroImage: https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Panini presses that store vertically in narrow cabinets"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Panini presses that store vertically in narrow cabinets are a game-changer for small kitchens. Finding a compact appliance that doesn’t hog your counter but still delivers crispy, melty paninis can be a challenge, but thankfully several models now balance performance with space-saving designs.
 
 ## Key takeaways
@@ -132,6 +132,14 @@ These features help ensure you get the most value from your appliance without ne
 | **Elite Gourmet EGP-007** | Yes               | Yes         | No                | Yes             | 6.8 lbs| $               |
 
 ---
+
+## Related reading
+
+- [Blender jars that store in a cabinet vs on the counter](/articles/blender-jars-that-store-in-a-cabinet-vs-on-the-counter/)
+- [Waffle makers with the smallest base for breakfast counters](/articles/waffle-makers-with-the-smallest-base-for-breakfast-counters/)
+- [Toaster ovens vs air fryers when counter depth is limited](/articles/toaster-ovens-vs-air-fryers-when-counter-depth-is-limited/)
+- [Portable induction cooktops for dorm and RV counters](/articles/portable-induction-cooktops-for-dorm-and-rv-counters/)
+- [Measuring cabinet swing clearance above appliances](/articles/measuring-cabinet-swing-clearance-above-appliances/)
 
 ## FAQ
 

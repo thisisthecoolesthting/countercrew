@@ -35,8 +35,8 @@ hero_image_keywords:
 - appliance orders
 heroImage: https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Appliance warranty and return policies for online orders"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 When shopping for kitchen appliances online, understanding appliance warranty and return policies is critical to avoid unexpected headaches and extra costs. Whether you're a renter or homeowner with limited counter space, knowing how these policies work can influence your buying decision and protect your investment.
 
 ## Key takeaways
@@ -160,3 +160,11 @@ Inspect the item immediately upon delivery, photograph any damage, and contact t
 ---
 
 Understanding appliance warranty and return policies before hitting “buy” can save you time, money, and frustration. Over the years, I’ve learned that making the effort to review these details upfront pays off — especially for renters and homeowners balancing limited space with smart purchases. If you keep the steps and tips here in mind, you can shop online confidently and enjoy your new kitchen gear without second-guessing.
+
+## Related reading
+
+- [Refurbished countertop appliances worth the savings](/articles/refurbished-countertop-appliances-worth-the-savings/)
+- [Best appliance surge protectors for kitchen outlet strips](/articles/best-appliance-surge-protectors-for-kitchen-outlet-strips/)
+- [Best appliance bundles for first apartment kitchens](/articles/best-appliance-bundles-for-first-apartment-kitchens/)
+- [Measuring cabinet swing clearance above appliances](/articles/measuring-cabinet-swing-clearance-above-appliances/)
+- [Drip coffee makers under 12 inches wide for rental kitchens](/articles/drip-coffee-makers-under-12-inches-wide-for-rental-kitchens/)

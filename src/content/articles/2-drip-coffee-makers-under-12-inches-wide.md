@@ -8,7 +8,8 @@ tags: ["coffee-makers", "small-kitchen"]
 status: published
 heroImage: https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Drip coffee makers under 12 inches wide"
-cardPick: "Measured at retail — Counter Crew"---
+cardPick: "Measured at retail — Counter Crew"
+---
 
 ## The 12-inch cabinet rule
 
@@ -35,3 +36,10 @@ Counter Crew publishes measured dimensions on every coffee review. We disclose a
 - [When a 4-slice toaster is too wide for your counter](/articles/when-a-4-slice-toaster-is-too-wide-for-your-counter/)
 - [Single-serve pod coffee makers that fit under cabinets](/articles/single-serve-pod-coffee-makers-that-fit-under-cabinets/)
 - [Wattage and breaker limits for small kitchen appliances](/articles/wattage-and-breaker-limits-for-small-kitchen-appliances/)
+
+## Products in this guide
+
+- [B002CVTT4S](/products/b002cvtt4s-b002cvtt4s/)
+- [B00EI7DPI0](/products/b00ei7dpi0-b00ei7dpi0/)
+- [B018UQ5AMS](/products/b018uq5ams-b018uq5ams/)
+- [B078NN17K3](/products/b078nn17k3-b078nn17k3/)

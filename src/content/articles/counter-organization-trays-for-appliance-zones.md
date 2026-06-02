@@ -34,8 +34,8 @@ hero_image_keywords:
 - counter zones
 heroImage: https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Counter organization trays for appliance zones"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Counter organization trays for appliance zones are a game-changer when it comes to maximizing kitchen counter space while keeping your daily-use appliances neat and accessible. I’ve tested various layouts and trays designed specifically to corral appliances into defined zones, and the difference in functionality is night and day.
 
 ## Key takeaways

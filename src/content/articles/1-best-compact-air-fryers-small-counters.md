@@ -8,7 +8,8 @@ tags: ["air-fryers", "small-kitchen"]
 status: published
 heroImage: https://images.unsplash.com/photo-1466637574441-749b8f194ff2?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Best compact air fryers for small counters"
-cardPick: "Measured at retail — Counter Crew"---
+cardPick: "Measured at retail — Counter Crew"
+---
 
 ## Start with the footprint, not the quart rating
 
@@ -35,3 +36,10 @@ We update pricing weekly and remove stale affiliate links within seven days. Cor
 - [Compact espresso machines that fit rental counters](/articles/compact-espresso-machines-that-fit-rental-counters/)
 - [Rice cookers with smallest footprint measurements](/articles/rice-cookers-with-smallest-footprint-measurements/)
 - [Mini food processors for apartment galley kitchens](/articles/mini-food-processors-for-apartment-galley-kitchens/)
+
+## Products in this guide
+
+- [B002CVTT4S](/products/b002cvtt4s-b002cvtt4s/)
+- [B00EI7DPI0](/products/b00ei7dpi0-b00ei7dpi0/)
+- [B018UQ5AMS](/products/b018uq5ams-b018uq5ams/)
+- [B078NN17K3](/products/b078nn17k3-b078nn17k3/)

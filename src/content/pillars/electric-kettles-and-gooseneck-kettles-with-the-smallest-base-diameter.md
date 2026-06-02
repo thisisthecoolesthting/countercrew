@@ -36,7 +36,8 @@ hero_image_keywords:
 - electric diameter
 heroImage: https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Electric kettles and gooseneck kettles with the smallest base diameter"
-cardPick: "Measured at retail — Counter Crew"---
+cardPick: "Measured at retail — Counter Crew"
+---
 
 Electric kettles and gooseneck kettles with the smallest base diameter are game changers for anyone dealing with tight kitchen spaces. Whether you’re a renter with limited counter space or just want a sleek kettle that doesn't crowd your countertop, finding one with a tiny footprint but big performance is key.
 

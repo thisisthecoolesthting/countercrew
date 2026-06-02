@@ -37,7 +37,8 @@ hero_image_keywords:
 - immersion footprint
 heroImage: https://images.unsplash.com/photo-1466637574441-749b8f194ff2?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Immersion blenders personal blenders and mini food processors compared b"
-cardPick: "Measured at retail — Counter Crew"---
+cardPick: "Measured at retail — Counter Crew"
+---
 
 Immersion blenders, personal blenders, and mini food processors are all key players when counter space is at a premium. Deciding which appliance matches your cooking style and kitchen size starts with comparing their footprints, capabilities, and versatility.
 

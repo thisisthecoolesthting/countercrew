@@ -37,7 +37,8 @@ hero_image_keywords:
 - counter purchase
 heroImage: https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Counter Crew buyers guide: measuring countertop footprint before any app"
-cardPick: "Measured at retail — Counter Crew"---
+cardPick: "Measured at retail — Counter Crew"
+---
 
 If you’re shopping for a small kitchen appliance, measuring your countertop footprint is the critical first step. Without knowing the exact space you have to work with, even the most highly rated blender or toaster can turn your counter into a cluttered mess — or worse, not fit at all.
 

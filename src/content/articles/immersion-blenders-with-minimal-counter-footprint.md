@@ -31,8 +31,8 @@ hero_image_keywords:
 - immersion footprint
 heroImage: https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Immersion blenders with minimal counter footprint"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Immersion blenders with minimal counter footprint are a game-changer for anyone juggling small kitchens or limited countertop space. After testing several brands and models, I’ve found some standout options that combine compact design with powerful blending capabilities, perfect for renters and homeowners who need efficiency without clutter.
 
 ## Key takeaways

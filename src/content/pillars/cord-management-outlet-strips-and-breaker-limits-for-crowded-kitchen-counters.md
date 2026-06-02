@@ -41,7 +41,8 @@ hero_image_keywords:
 - cord counters
 heroImage: https://images.unsplash.com/photo-1466637574441-749b8f194ff2?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Cord management outlet strips and breaker limits for crowded kitchen cou"
-cardPick: "Measured at retail — Counter Crew"---
+cardPick: "Measured at retail — Counter Crew"
+---
 
 Cord management outlet strips and breaker limits are essential considerations for anyone dealing with crowded kitchen counters. Having multiple appliances plugged into a single area can lead to dangerous overloads and messy tangles, but there are smart solutions to keep your kitchen safe, organized, and functional.
 

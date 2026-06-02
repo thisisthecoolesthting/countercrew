@@ -36,8 +36,8 @@ hero_image_keywords:
 - measure appliance
 heroImage: https://images.unsplash.com/photo-1556909114-f6e7ad7d4046?auto=format&fit=crop&w=1200&q=85
 cardTitle: "How to measure counter space before buying a countertop appliance"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Measuring your counter space before buying a countertop appliance is the key to avoiding clutter and ensuring a smooth kitchen workflow. Without the right dimensions in hand, even the best appliance can become a daily frustration or occupy precious room you didn’t expect it to.
 
 ## Key takeaways

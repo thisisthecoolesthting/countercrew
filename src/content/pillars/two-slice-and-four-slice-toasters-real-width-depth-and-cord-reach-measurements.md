@@ -37,7 +37,8 @@ hero_image_keywords:
 - two-slice measurements
 heroImage: https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Two-slice and four-slice toasters: real width depth and cord reach measu"
-cardPick: "Measured at retail — Counter Crew"---
+cardPick: "Measured at retail — Counter Crew"
+---
 
 When shopping for toasters, the advertised number of slices is just the start — understanding the real width, depth, and cord reach can make or break your kitchen setup. I’ve measured popular two-slice and four-slice toasters myself to reveal how much counter space they really take and how far you can plug them in.
 

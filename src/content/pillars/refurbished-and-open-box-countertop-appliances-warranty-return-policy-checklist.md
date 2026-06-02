@@ -36,7 +36,8 @@ hero_image_keywords:
 - refurbished checklist
 heroImage: https://images.unsplash.com/photo-1507048331197-7d4ac726ccc0?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Refurbished and open-box countertop appliances: warranty return policy c"
-cardPick: "Measured at retail — Counter Crew"---
+cardPick: "Measured at retail — Counter Crew"
+---
 
 Refurbished and open-box countertop appliances can be budget-friendly solutions for renters and homeowners with limited kitchen counter space, but understanding the warranty and return policies before purchase is crucial to avoid surprises. Knowing what protections come with these products helps ensure you’re investing wisely, especially when the usual new-appliance guarantees don’t always apply.
 

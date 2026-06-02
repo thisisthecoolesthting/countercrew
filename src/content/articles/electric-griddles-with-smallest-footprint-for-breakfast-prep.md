@@ -35,8 +35,8 @@ hero_image_keywords:
 - electric prep
 heroImage: https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Electric griddles with smallest footprint for breakfast prep"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Electric griddles with the smallest footprint offer a game-changing solution for renters and homeowners who struggle with limited kitchen counter space but don’t want to sacrifice their morning breakfast rituals. After testing several compact models, I’ll share what works best for efficient, versatile breakfast prep without hogging your entire countertop.
 
 ## Key takeaways
@@ -100,6 +100,14 @@ Having tried these griddles firsthand over several weeks, my top pick for really
 For anyone tight on space but still serious about diverse breakfast prep, these small-footprint electric griddles hit the sweet spot — no giant machines hogging your counters, just easy, fast, delicious morning meals.
 
 ---
+
+## Related reading
+
+- [Waffle makers with the smallest base for breakfast counters](/articles/waffle-makers-with-the-smallest-base-for-breakfast-counters/)
+- [Electric kettles with short base diameter picks](/articles/electric-kettles-with-short-base-diameter-picks/)
+- [Portable induction cooktops for dorm and RV counters](/articles/portable-induction-cooktops-for-dorm-and-rv-counters/)
+- [Best compact air fryers for small counters under 2 square feet](/articles/best-compact-air-fryers-for-small-counters-under-2-square-feet/)
+- [Immersion blenders with minimal counter footprint](/articles/immersion-blenders-with-minimal-counter-footprint/)
 
 ## FAQ
 

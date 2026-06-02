@@ -34,7 +34,6 @@ hero_image_keywords:
 - basket size marketed
 - air explained
 ---
-
 The air fryer basket size vs marketed quart rating conversation is confusing for many shoppers trying to choose the right appliance for their kitchen. I’ve tested multiple models and found that the published quart capacity often doesn’t match the actual cooking space, making it critical to understand how these ratings work in real life.
 
 ## Key takeaways
@@ -127,6 +126,14 @@ I’ve learned to tune out just the number and focus on how food fits and cooks 
 Following this checklist has saved me from buying too small or too bulky air fryers for my kitchen multiple times.
 
 ---
+
+## Related reading
+
+- [1-best-compact-air-fryers-small-counters](/articles/1-best-compact-air-fryers-small-counters/)
+- [Best compact air fryers for small counters under 2 square feet](/articles/best-compact-air-fryers-for-small-counters-under-2-square-feet/)
+- [Drip coffee makers under 12 inches wide for rental kitchens](/articles/drip-coffee-makers-under-12-inches-wide-for-rental-kitchens/)
+- [Toaster ovens vs air fryers when counter depth is limited](/articles/toaster-ovens-vs-air-fryers-when-counter-depth-is-limited/)
+- [Blender jars that store in a cabinet vs on the counter](/articles/blender-jars-that-store-in-a-cabinet-vs-on-the-counter/)
 
 ## FAQ
 

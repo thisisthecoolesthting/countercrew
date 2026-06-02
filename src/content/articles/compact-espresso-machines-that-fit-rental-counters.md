@@ -34,8 +34,8 @@ hero_image_keywords:
 - compact counters
 heroImage: https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Compact espresso machines that fit rental counters"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Compact espresso machines that fit rental counters are a game-changer for coffee lovers living in small spaces or renting apartments without the advantage of a large kitchen. I’ve tested dozens of models, evaluating their footprint, ease of use, and coffee quality, and I’m excited to share the best picks for renters who want great espresso without crowding their limited counter space.
 
 ## Key takeaways

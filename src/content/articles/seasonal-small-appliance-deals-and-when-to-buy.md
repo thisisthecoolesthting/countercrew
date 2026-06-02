@@ -32,8 +32,8 @@ hero_image_keywords:
 - household products retail shelf
 heroImage: https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Seasonal small-appliance deals and when to buy"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Seasonal small-appliance deals and when to buy are key for anyone looking to upgrade their kitchen without breaking the bank. Knowing the best times to snag discounts on blenders, air fryers, coffee makers, and other compact appliances can save you serious cash and counter space.
 
 ## Key takeaways
@@ -135,3 +135,11 @@ Both have pros. Online sales often offer broader inventories and easy price comp
 ---
 
 Buying small appliances on sale during the right season is like nailing the perfect recipe — a little planning and timing go a long way. Whether you’re whipping up smoothies in a new blender or upgrading your coffee setup, knowing when to buy helps you score smart for your kitchen space and wallet.
+
+## Related reading
+
+- [How to measure counter space before buying a countertop appliance](/articles/how-to-measure-counter-space-before-buying-a-countertop-appliance/)
+- [Counter organization trays for appliance zones](/articles/counter-organization-trays-for-appliance-zones/)
+- [Waffle makers with the smallest base for breakfast counters](/articles/waffle-makers-with-the-smallest-base-for-breakfast-counters/)
+- [Measuring cabinet swing clearance above appliances](/articles/measuring-cabinet-swing-clearance-above-appliances/)
+- [Wattage and breaker limits for small kitchen appliances](/articles/wattage-and-breaker-limits-for-small-kitchen-appliances/)

@@ -37,7 +37,8 @@ hero_image_keywords:
 - rice backsplash
 heroImage: https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Rice cookers slow cookers and multi-cookers that tuck against the backsp"
-cardPick: "Measured at retail — Counter Crew"---
+cardPick: "Measured at retail — Counter Crew"
+---
 
 Rice cookers, slow cookers, and multi-cookers that tuck against the backsplash are a game changer if you’re short on counter space but still want home-cooked meals without the hassle. I’ve tested several of these slim, space-saving appliances and will walk you through the best options that offer full function without cluttering your kitchen.
 

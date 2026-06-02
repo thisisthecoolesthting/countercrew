@@ -34,8 +34,8 @@ hero_image_keywords:
 - portable counters
 heroImage: https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Portable induction cooktops for dorm and RV counters"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Portable induction cooktops for dorm and RV counters are perfect for limited spaces where every inch counts. Whether you’re cooking up late-night ramen in a dorm or making dinner on the road in an RV, these compact and efficient appliances bring convenience and precision without taking over your limited counter space.
 
 ## Key takeaways
@@ -105,6 +105,14 @@ Having tested these models in different settings, here’s the step-by-step appr
 - **Store smart** — Since these cooktops are slim, storing them upright behind appliances or under beds is easy without risking damage.
 
 ---
+
+## Related reading
+
+- [Waffle makers with the smallest base for breakfast counters](/articles/waffle-makers-with-the-smallest-base-for-breakfast-counters/)
+- [Immersion blenders with minimal counter footprint](/articles/immersion-blenders-with-minimal-counter-footprint/)
+- [Milk frothers that fit in a drawer vs on the counter](/articles/milk-frothers-that-fit-in-a-drawer-vs-on-the-counter/)
+- [Toaster ovens vs air fryers when counter depth is limited](/articles/toaster-ovens-vs-air-fryers-when-counter-depth-is-limited/)
+- [Best compact air fryers for small counters under 2 square feet](/articles/best-compact-air-fryers-for-small-counters-under-2-square-feet/)
 
 ## FAQ
 

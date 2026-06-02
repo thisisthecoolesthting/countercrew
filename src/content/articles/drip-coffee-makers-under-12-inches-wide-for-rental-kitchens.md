@@ -34,8 +34,8 @@ hero_image_keywords:
 - drip kitchens
 heroImage: https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Drip coffee makers under 12 inches wide for rental kitchens"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 [Drip coffee makers under 12 inches wide](/articles/2-drip-coffee-makers-under-12-inches-wide/) are a game-changer for rental kitchens where counter space is precious. I’ve tested a variety of compact machines that not only fit snugly on narrow countertops but also deliver robust, tasty coffee with minimal fuss.
 
 ## Key takeaways

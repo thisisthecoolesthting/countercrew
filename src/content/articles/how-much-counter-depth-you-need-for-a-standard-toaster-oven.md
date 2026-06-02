@@ -35,8 +35,8 @@ hero_image_keywords:
 - much oven
 heroImage: https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=85
 cardTitle: "How much counter depth you need for a standard toaster oven"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 If you’re shopping for a standard toaster oven, figuring out how much counter depth you need is one of the first questions to answer before committing to a model. Too shallow of a surface can make it tricky to fit your appliance without clutter, while a roomy counter lets you enjoy your toaster oven without juggling space.
 
 ## Key takeaways
@@ -135,6 +135,14 @@ If you’re struggling with limited counter depth, compact toaster ovens are a g
 5. **Portable or foldable trays:** Keep a small heat-safe tray or board nearby to set hot dishes down safely if your counter space is tight.
 
 ---
+
+## Related reading
+
+- [Two-slice toasters footprint and cord clearance guide](/articles/two-slice-toasters-footprint-and-cord-clearance-guide/)
+- [Toaster ovens vs air fryers when counter depth is limited](/articles/toaster-ovens-vs-air-fryers-when-counter-depth-is-limited/)
+- [3-two-slice-toasters-footprint-guide](/articles/3-two-slice-toasters-footprint-guide/)
+- [Wattage and breaker limits for small kitchen appliances](/articles/wattage-and-breaker-limits-for-small-kitchen-appliances/)
+- [When a 4-slice toaster is too wide for your counter](/articles/when-a-4-slice-toaster-is-too-wide-for-your-counter/)
 
 ## FAQ
 

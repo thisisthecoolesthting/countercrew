@@ -3,7 +3,7 @@
     "shortName": "Counter Crew",
     "fullName": "Counter Crew",
     "taglineShort": "Small-appliance picks for tight countertops.",
-    "taglineLong": "Counter Crew reviews air fryers, coffee makers, toasters, and other sub-2 sq ft countertop appliances \u2014 measured footprints, honest wattage notes, and picks that actually fit rental kitchens.",
+    "taglineLong": "Counter Crew reviews air fryers, coffee makers, toasters, and other sub-2 sq ft countertop appliances — measured footprints, honest wattage notes, and picks that actually fit rental kitchens.",
     "identity": {
       "palette": {
         "primary": "#B45309",
@@ -55,7 +55,7 @@
     "authorSlug": "morgan-ellis-countercrew",
     "author_slug": "morgan-ellis-countercrew",
     "methodology": [
-      "We measure width, depth, and height on every appliance with a steel rule \u2014 not manufacturer rounding.",
+      "We measure width, depth, and height on every appliance with a steel rule — not manufacturer rounding.",
       "Each pick is evaluated for cord length, vent clearance, and cabinet swing interference.",
       "Pricing is re-checked weekly; stale affiliate links are removed within 7 days.",
       "We disclose every affiliate relationship in plain English at the top of the relevant article.",
@@ -73,7 +73,7 @@
   "defaultMetaDescription": "We measure footprint, height, and cord reach on air fryers, coffee gear, blenders, and toasters built for small kitchens. No sponsor samples without disclosure.",
   "homepage": {
     "eyebrow": "Countertop appliances",
-    "h1": "Appliances that fit your counter \u2014 not the other way around.",
+    "h1": "Appliances that fit your counter — not the other way around.",
     "subhead": "We measure footprint, height, and cord reach on air fryers, coffee gear, blenders, and toasters built for small kitchens. No sponsor samples without disclosure.",
     "ctaPrimaryLabel": "Browse guides",
     "ctaPrimaryHref": "/pillars",
@@ -81,11 +81,37 @@
     "ctaSecondaryHref": "/how-we-test",
     "trustLine": "Affiliate links only on gear we would buy for our own counters.",
     "heroImageUrl": "https://images.unsplash.com/photo-1556909114-f6e7ad7d4046?auto=format&fit=crop&w=1200&q=85",
-    "compareRowEnabled": true
+    "compareRowEnabled": true,
+    "comparePicks": [
+      {
+        "title": "B09SBRGSFH",
+        "slug": "b09sbrgsfh-b09sbrgsfh",
+        "priceLabel": "See Amazon",
+        "href": "/products/b09sbrgsfh-b09sbrgsfh/"
+      },
+      {
+        "title": "B00EI7DPI0",
+        "slug": "b00ei7dpi0-b00ei7dpi0",
+        "priceLabel": "See Amazon",
+        "href": "/products/b00ei7dpi0-b00ei7dpi0/"
+      },
+      {
+        "title": "B0CYJ6JZ9T",
+        "slug": "b0cyj6jz9t-b0cyj6jz9t",
+        "priceLabel": "See Amazon",
+        "href": "/products/b0cyj6jz9t-b0cyj6jz9t/"
+      },
+      {
+        "title": "B0GQZ7V113",
+        "slug": "b0gqz7v113-b0gqz7v113",
+        "priceLabel": "See Amazon",
+        "href": "/products/b0gqz7v113-b0gqz7v113/"
+      }
+    ]
   },
   "about": {
     "headline": "Why Counter Crew exists",
-    "body": "Most appliance reviews ignore the counter. Counter Crew starts with the footprint: width, depth, height, and clearance for cabinets and outlets. We test small-kitchen staples \u2014 air fryers, drip and pod coffee, immersion blenders, two-slice toasters \u2014 and say plainly when something is too big for a standard rental galley."
+    "body": "Most appliance reviews ignore the counter. Counter Crew starts with the footprint: width, depth, height, and clearance for cabinets and outlets. We test small-kitchen staples — air fryers, drip and pod coffee, immersion blenders, two-slice toasters — and say plainly when something is too big for a standard rental galley."
   },
   "navigation": [
     {
@@ -134,15 +160,15 @@
     }
   },
   "analytics": {
-    "ga_measurement_id": "",
-    "ga_property_id": "",
+    "ga_measurement_id": "G-VYNVB5ERLX",
+    "ga_property_id": "539933016",
     "search_console_property": "https://countercrew.org/"
   },
   "categoryTiles": [
     {
       "key": "measuring-footprint",
       "title": "Measure before you buy",
-      "excerpt": "Steel-rule width, depth, height, and cabinet swing \u2014 the buyers guide every small kitchen needs first.",
+      "excerpt": "Steel-rule width, depth, height, and cabinet swing — the buyers guide every small kitchen needs first.",
       "href": "/how-we-test"
     },
     {
@@ -172,7 +198,7 @@
     {
       "key": "toaster-ovens",
       "title": "Toaster oven vs air fryer",
-      "excerpt": "When counter depth is under 18 inches \u2014 which combo unit actually fits and vents safely.",
+      "excerpt": "When counter depth is under 18 inches — which combo unit actually fits and vents safely.",
       "href": "/articles?cat=toaster-ovens"
     },
     {
@@ -215,14 +241,14 @@
   "homepageCopy": {
     "pillarKicker": "Kitchen lanes",
     "pillarH2": "Twelve guides for tight counters",
-    "pillarSub": "Each lane starts with measured footprint, cord reach, and picks we would buy for a rental galley \u2014 no sponsor samples.",
+    "pillarSub": "Each lane starts with measured footprint, cord reach, and picks we would buy for a rental galley — no sponsor samples.",
     "productsKicker": "Measured this week",
     "productsH2": "Top three on our counter bench",
-    "productsSub": "Ranked on width, depth, height, vent clearance, and honest wattage \u2014 affiliate links only on gear we would keep.",
+    "productsSub": "Ranked on width, depth, height, vent clearance, and honest wattage — affiliate links only on gear we would keep.",
     "articlesKicker": "From the desk",
     "articlesH2": "Latest countertop notes",
     "articlesSub": "Footprint-first writeups for renters, studio kitchens, and anyone tired of appliances that do not fit.",
     "authorKicker": "About Counter Crew",
-    "methodologyBlurb": "Affiliate disclosure on every money page \u00b7 steel-rule measuring protocol \u00b7 72-hour correction policy."
+    "methodologyBlurb": "Affiliate disclosure on every money page · steel-rule measuring protocol · 72-hour correction policy."
   }
 }

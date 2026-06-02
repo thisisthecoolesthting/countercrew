@@ -32,8 +32,8 @@ hero_image_keywords:
 - milk counter
 heroImage: https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Milk frothers that fit in a drawer vs on the counter"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Milk frothers have quickly become a staple for coffee enthusiasts who value café-quality drinks at home. Deciding between milk frothers that fit in a drawer versus those designed to sit on the counter can be a game-changer, especially for those with limited kitchen space.
 
 ## Key takeaways
@@ -133,6 +133,14 @@ In deciding between these two types, I recommend asking yourself:
 For renters or anyone with minimal kitchen space, the drawer-friendly frothers provide an affordable, convenient option that keeps counters clear without sacrificing milk quality. For enthusiasts with dedicated coffee spots, countertop frothers offer that extra touch of café professionalism.
 
 ---
+
+## Related reading
+
+- [Compact espresso machines that fit rental counters](/articles/compact-espresso-machines-that-fit-rental-counters/)
+- [Portable induction cooktops for dorm and RV counters](/articles/portable-induction-cooktops-for-dorm-and-rv-counters/)
+- [Waffle makers with the smallest base for breakfast counters](/articles/waffle-makers-with-the-smallest-base-for-breakfast-counters/)
+- [Panini presses that store vertically in narrow cabinets](/articles/panini-presses-that-store-vertically-in-narrow-cabinets/)
+- [Drip coffee makers under 12 inches wide for rental kitchens](/articles/drip-coffee-makers-under-12-inches-wide-for-rental-kitchens/)
 
 ## FAQ
 

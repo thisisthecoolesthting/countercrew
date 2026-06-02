@@ -34,8 +34,8 @@ hero_image_keywords:
 - rice measurements
 heroImage: https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Rice cookers with smallest footprint measurements"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 When kitchen counter space is at a premium, finding a rice cooker with the smallest footprint can be a game changer — especially for renters or anyone working with a compact kitchen. I’ve tested multiple models specifically for their size, ease of use, and performance, so you get a clear picture of which small-footprint rice cooker fits your style and space.
 
 ## Key takeaways

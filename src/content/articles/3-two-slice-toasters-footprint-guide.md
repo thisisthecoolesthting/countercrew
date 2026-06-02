@@ -8,7 +8,8 @@ tags: ["toasters", "counter-organization"]
 status: published
 heroImage: https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Two-slice toasters that actually fit between outlets"
-cardPick: "Measured at retail — Counter Crew"---
+cardPick: "Measured at retail — Counter Crew"
+---
 
 ## Outlet spacing is the hidden spec
 
@@ -33,3 +34,10 @@ Every Counter Crew toaster review includes outlet-spacing notes for galley kitch
 - [When a 4-slice toaster is too wide for your counter](/articles/when-a-4-slice-toaster-is-too-wide-for-your-counter/)
 - [How to measure counter space before buying an appliance](/articles/4-measure-counter-space-before-you-buy/)
 - [How to measure counter space before buying a countertop appliance](/articles/how-to-measure-counter-space-before-buying-a-countertop-appliance/)
+
+## Products in this guide
+
+- [B002CVTT4S](/products/b002cvtt4s-b002cvtt4s/)
+- [B00EI7DPI0](/products/b00ei7dpi0-b00ei7dpi0/)
+- [B018UQ5AMS](/products/b018uq5ams-b018uq5ams/)
+- [B078NN17K3](/products/b078nn17k3-b078nn17k3/)

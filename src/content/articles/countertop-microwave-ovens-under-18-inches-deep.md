@@ -35,8 +35,8 @@ hero_image_keywords:
 - countertop deep
 heroImage: https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Countertop microwave ovens under 18 inches deep"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Countertop microwave ovens under 18 inches deep are a game changer for anyone with limited kitchen space. Whether you’re renting a cozy apartment or simply want to maximize your countertop real estate, these compact microwaves deliver powerful performance while fitting neatly into tighter spots.
 
 ## Key takeaways
@@ -154,3 +154,11 @@ If you mostly reheat leftovers or simple meals, budget models like BLACK+DECKER 
 ---
 
 Finding the right countertop microwave under 18 inches deep isn’t just about size—it’s balancing performance, convenience, and durability. With careful measuring and selecting, your compact microwave can feel like a full-size kitchen upgrade, not a cramped compromise. I’m excited to see how these models help kitchens reclaim precious countertop space without losing microwave power.
+
+## Related reading
+
+- [How much counter depth you need for a standard toaster oven](/articles/how-much-counter-depth-you-need-for-a-standard-toaster-oven/)
+- [2-drip-coffee-makers-under-12-inches-wide](/articles/2-drip-coffee-makers-under-12-inches-wide/)
+- [1-best-compact-air-fryers-small-counters](/articles/1-best-compact-air-fryers-small-counters/)
+- [Milk frothers that fit in a drawer vs on the counter](/articles/milk-frothers-that-fit-in-a-drawer-vs-on-the-counter/)
+- [Air fryer basket size vs marketed quart rating explained](/articles/air-fryer-basket-size-vs-marketed-quart-rating-explained/)

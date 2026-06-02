@@ -34,8 +34,8 @@ hero_image_keywords:
 - blender counter
 heroImage: https://images.unsplash.com/photo-1466637574441-749b8f194ff2?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Blender jars that store in a cabinet vs on the counter"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 Blender jars that store in a cabinet vs on the counter can make a big difference in kitchen organization and usability, especially when you have limited counter space. Choosing between these storage styles comes down to your daily habits, space constraints, and how often you use your blender.
 
 ## Key takeaways

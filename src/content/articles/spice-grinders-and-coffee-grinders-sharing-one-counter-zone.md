@@ -35,8 +35,8 @@ hero_image_keywords:
 - spice zone
 heroImage: https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=85
 cardTitle: "Spice grinders and coffee grinders sharing one counter zone"
-cardPick: "Measured at retail — Counter Crew"---
-
+cardPick: "Measured at retail — Counter Crew"
+---
 If you have limited counter space, sharing one counter zone between your spice grinder and coffee grinder can save valuable real estate without sacrificing flavor or freshness. But managing these two small appliances in the same spot takes some strategy — especially if you want to avoid cross-contamination and streamline your prep routine.
 
 ## Key takeaways
@@ -171,6 +171,14 @@ Choosing any of these helps keep your small kitchen functional and clutter-free.
 | Regular cleaning routine established         |          | Prevents flavor crossover and appliance buildup|
 
 ---
+
+## Related reading
+
+- [Counter organization trays for appliance zones](/articles/counter-organization-trays-for-appliance-zones/)
+- [Immersion blenders with minimal counter footprint](/articles/immersion-blenders-with-minimal-counter-footprint/)
+- [Drip coffee makers under 12 inches wide for rental kitchens](/articles/drip-coffee-makers-under-12-inches-wide-for-rental-kitchens/)
+- [Best compact air fryers for small counters under 2 square feet](/articles/best-compact-air-fryers-for-small-counters-under-2-square-feet/)
+- [Best appliance surge protectors for kitchen outlet strips](/articles/best-appliance-surge-protectors-for-kitchen-outlet-strips/)
 
 ## FAQ
 
