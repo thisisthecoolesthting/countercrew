@@ -3,6 +3,7 @@
     "shortName": "Counter Crew",
     "fullName": "Counter Crew",
     "taglineShort": "Small-appliance picks for tight countertops.",
+    "taglineLong": "Counter Crew reviews air fryers, coffee makers, toasters, and other sub-2 sq ft countertop appliances \u2014 measured footprints, honest wattage notes, and picks that actually fit rental kitchens.",
     "identity": {
       "palette": {
         "primary": "#B45309",
@@ -16,10 +17,10 @@
         "mono": "JetBrains Mono"
       },
       "mark": {
-        "svgPath": "",
-        "svgPublicPath": "",
+        "svgPath": "brand/countercrew-mark.svg",
+        "svgPublicPath": "/brand/countercrew-mark.svg",
         "sizeRem": 1.5,
-        "position": "none"
+        "position": "left-of-wordmark"
       },
       "wordmark": {
         "weight": 600,
@@ -28,16 +29,31 @@
       },
       "headerVariant": "minimal",
       "eyebrowText": "HOME & KITCHEN",
-      "fontCssHref": "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap"
     }
   },
   "persona": {
     "ymyl": false,
-    "tone": "practical-tester"
+    "tone": "practical-tester",
+    "pseudonymHint": "Morgan Ellis"
   },
+  "categories": [
+    "air-fryers",
+    "coffee-makers",
+    "toasters",
+    "blenders",
+    "toaster-ovens",
+    "espresso",
+    "electric-kettles",
+    "multi-cookers",
+    "cord-management",
+    "counter-organization",
+    "refurbished",
+    "measuring-footprint"
+  ],
   "editorial": {
-    "authorSlug": "_default",
-    "author_slug": "_default",
+    "authorSlug": "morgan-ellis-countercrew",
+    "author_slug": "morgan-ellis-countercrew",
     "methodology": [
       "We measure width, depth, and height on every appliance with a steel rule \u2014 not manufacturer rounding.",
       "Each pick is evaluated for cord length, vent clearance, and cabinet swing interference.",
@@ -59,20 +75,154 @@
     "eyebrow": "Countertop appliances",
     "h1": "Appliances that fit your counter \u2014 not the other way around.",
     "subhead": "We measure footprint, height, and cord reach on air fryers, coffee gear, blenders, and toasters built for small kitchens. No sponsor samples without disclosure.",
-    "ctaPrimaryLabel": "Read reviews",
-    "ctaPrimaryHref": "/articles",
+    "ctaPrimaryLabel": "Browse guides",
+    "ctaPrimaryHref": "/pillars",
     "ctaSecondaryLabel": "How we test",
     "ctaSecondaryHref": "/how-we-test",
     "trustLine": "Affiliate links only on gear we would buy for our own counters.",
-    "heroImageUrl": "https://images.unsplash.com/photo-1556909114-f6e7ad7d4046?w=1600&q=85"
+    "heroImageUrl": "https://images.unsplash.com/photo-1556909114-f6e7ad7d4046?auto=format&fit=crop&w=1200&q=85",
+    "compareRowEnabled": true
   },
   "about": {
     "headline": "Why Counter Crew exists",
     "body": "Most appliance reviews ignore the counter. Counter Crew starts with the footprint: width, depth, height, and clearance for cabinets and outlets. We test small-kitchen staples \u2014 air fryers, drip and pod coffee, immersion blenders, two-slice toasters \u2014 and say plainly when something is too big for a standard rental galley."
   },
+  "navigation": [
+    {
+      "href": "/",
+      "label": "Home"
+    },
+    {
+      "href": "/pillars",
+      "label": "Guides"
+    },
+    {
+      "href": "/articles",
+      "label": "Articles"
+    },
+    {
+      "href": "/products",
+      "label": "Reviews"
+    },
+    {
+      "href": "/about",
+      "label": "About"
+    }
+  ],
+  "distribution": {
+    "ads": {
+      "provider": "none",
+      "site_id": "",
+      "slot_ids": {
+        "hero": "",
+        "content_mid": "",
+        "footer": ""
+      }
+    },
+    "email_capture": {
+      "provider": "none",
+      "form_action": "",
+      "list_id": ""
+    },
+    "phone_case_promo": {
+      "enabled": false,
+      "store_url": "https://phonecasesforall.com",
+      "headline": "",
+      "subhead": "",
+      "cta": "",
+      "utm_campaign": "countercrew.org"
+    }
+  },
   "analytics": {
     "ga_measurement_id": "",
     "ga_property_id": "",
     "search_console_property": "https://countercrew.org/"
+  },
+  "categoryTiles": [
+    {
+      "key": "measuring-footprint",
+      "title": "Measure before you buy",
+      "excerpt": "Steel-rule width, depth, height, and cabinet swing \u2014 the buyers guide every small kitchen needs first.",
+      "href": "/how-we-test"
+    },
+    {
+      "key": "air-fryers",
+      "title": "Air fryers",
+      "excerpt": "Basket size, wattage, vent clearance, and whether the unit clears a standard 18-inch counter depth.",
+      "href": "/articles?cat=air-fryers"
+    },
+    {
+      "key": "coffee-makers",
+      "title": "Coffee makers",
+      "excerpt": "Drip and pod machines under 12 inches wide, cord reach, and drip-tray depth on rental counters.",
+      "href": "/articles?cat=coffee-makers"
+    },
+    {
+      "key": "toasters",
+      "title": "Toasters",
+      "excerpt": "Two-slice and four-slice footprints with real width, crumb-tray clearance, and outlet placement notes.",
+      "href": "/articles?cat=toasters"
+    },
+    {
+      "key": "blenders",
+      "title": "Blenders & processors",
+      "excerpt": "Immersion, personal, and mini food processors compared by base diameter and storage height.",
+      "href": "/articles?cat=blenders"
+    },
+    {
+      "key": "toaster-ovens",
+      "title": "Toaster oven vs air fryer",
+      "excerpt": "When counter depth is under 18 inches \u2014 which combo unit actually fits and vents safely.",
+      "href": "/articles?cat=toaster-ovens"
+    },
+    {
+      "key": "espresso",
+      "title": "Compact espresso",
+      "excerpt": "Small-footprint machines under $500 with honest counter space and cost-per-cup math.",
+      "href": "/articles?cat=espresso"
+    },
+    {
+      "key": "electric-kettles",
+      "title": "Electric kettles",
+      "excerpt": "Gooseneck and rapid-boil kettles with the smallest base diameter for crowded backsplashes.",
+      "href": "/articles?cat=electric-kettles"
+    },
+    {
+      "key": "multi-cookers",
+      "title": "Multi-cookers",
+      "excerpt": "Rice cookers, slow cookers, and multi-pots that tuck against the backsplash without blocking outlets.",
+      "href": "/articles?cat=multi-cookers"
+    },
+    {
+      "key": "cord-management",
+      "title": "Cords & outlets",
+      "excerpt": "Cord length, strip load, and breaker limits when three appliances share one galley run.",
+      "href": "/articles?cat=cord-management"
+    },
+    {
+      "key": "counter-organization",
+      "title": "Counter organization",
+      "excerpt": "Zones, trays, and vertical storage when your counter hosts more appliances than square feet.",
+      "href": "/articles?cat=counter-organization"
+    },
+    {
+      "key": "refurbished",
+      "title": "Refurb & open-box",
+      "excerpt": "Warranty, return policy, and footprint surprises on refurbished countertop gear worth the risk.",
+      "href": "/articles?cat=refurbished"
+    }
+  ],
+  "homepageCopy": {
+    "pillarKicker": "Kitchen lanes",
+    "pillarH2": "Twelve guides for tight counters",
+    "pillarSub": "Each lane starts with measured footprint, cord reach, and picks we would buy for a rental galley \u2014 no sponsor samples.",
+    "productsKicker": "Measured this week",
+    "productsH2": "Top three on our counter bench",
+    "productsSub": "Ranked on width, depth, height, vent clearance, and honest wattage \u2014 affiliate links only on gear we would keep.",
+    "articlesKicker": "From the desk",
+    "articlesH2": "Latest countertop notes",
+    "articlesSub": "Footprint-first writeups for renters, studio kitchens, and anyone tired of appliances that do not fit.",
+    "authorKicker": "About Counter Crew",
+    "methodologyBlurb": "Affiliate disclosure on every money page \u00b7 steel-rule measuring protocol \u00b7 72-hour correction policy."
   }
 }

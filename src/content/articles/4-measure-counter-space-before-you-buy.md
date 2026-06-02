@@ -6,8 +6,9 @@ excerpt: "Tape-measure workflow we use on every Counter Crew review — cabinet 
 author: morgan-ellis-countercrew
 tags: ["counter-organization", "buying-guides"]
 status: published
-heroImage: "https://images.unsplash.com/photo-1556909114-f6e7ad7d4046?auto=format&fit=crop&w=1600&q=80"
----
+heroImage: https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=85
+cardTitle: "How to measure counter space before buying an appliance"
+cardPick: "Measured at retail — Counter Crew"---
 
 ## The Counter Crew measurement card
 
@@ -29,3 +30,11 @@ Open upper cabinet doors above the target spot. If a door lip hangs lower than t
 Photograph your measurement card next to the appliance when it arrives. Returns are easier when you can show the box depth was wrong, not your counter.
 
 Use this method on every Counter Crew buying guide before you click buy.
+
+## Related reading
+
+- [How to measure counter space before buying a countertop appliance](/articles/how-to-measure-counter-space-before-buying-a-countertop-appliance/)
+- [Two-slice toasters that actually fit between outlets](/articles/3-two-slice-toasters-footprint-guide/)
+- [Measuring cabinet swing clearance above appliances](/articles/measuring-cabinet-swing-clearance-above-appliances/)
+- [Refurbished countertop appliances worth the savings](/articles/refurbished-countertop-appliances-worth-the-savings/)
+- [Drip coffee makers under 12 inches wide](/articles/2-drip-coffee-makers-under-12-inches-wide/)

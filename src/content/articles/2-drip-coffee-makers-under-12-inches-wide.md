@@ -6,8 +6,9 @@ excerpt: "Standard upper cabinets overhang about 12 inches. These drip and pod b
 author: morgan-ellis-countercrew
 tags: ["coffee-makers", "small-kitchen"]
 status: published
-heroImage: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1600&q=80"
----
+heroImage: https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=85
+cardTitle: "Drip coffee makers under 12 inches wide"
+cardPick: "Measured at retail — Counter Crew"---
 
 ## The 12-inch cabinet rule
 
@@ -26,3 +27,11 @@ We tested drip and single-serve brewers with:
 - **Warm plate clearance** — does steam vent straight into the cabinet lip?
 
 Counter Crew publishes measured dimensions on every coffee review. We disclose affiliate relationships at the top of each buying guide.
+
+## Related reading
+
+- [Compact espresso machines that fit rental counters](/articles/compact-espresso-machines-that-fit-rental-counters/)
+- [Drip coffee makers under 12 inches wide for rental kitchens](/articles/drip-coffee-makers-under-12-inches-wide-for-rental-kitchens/)
+- [When a 4-slice toaster is too wide for your counter](/articles/when-a-4-slice-toaster-is-too-wide-for-your-counter/)
+- [Single-serve pod coffee makers that fit under cabinets](/articles/single-serve-pod-coffee-makers-that-fit-under-cabinets/)
+- [Wattage and breaker limits for small kitchen appliances](/articles/wattage-and-breaker-limits-for-small-kitchen-appliances/)

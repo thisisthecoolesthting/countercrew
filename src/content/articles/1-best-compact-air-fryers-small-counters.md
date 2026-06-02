@@ -6,8 +6,9 @@ excerpt: "We measured width, depth, and height on popular compact air fryers to 
 author: morgan-ellis-countercrew
 tags: ["air-fryers", "small-kitchen"]
 status: published
-heroImage: "https://images.unsplash.com/photo-1585515320310-259814833e62?auto=format&fit=crop&w=1600&q=80"
----
+heroImage: https://images.unsplash.com/photo-1466637574441-749b8f194ff2?auto=format&fit=crop&w=1200&q=85
+cardTitle: "Best compact air fryers for small counters"
+cardPick: "Measured at retail — Counter Crew"---
 
 ## Start with the footprint, not the quart rating
 
@@ -26,3 +27,11 @@ Most air fryer reviews lead with basket size. On a 24-inch counter between the s
 3. **Cord exit side** — right-hand outlets hate left-exit cords; we note this in every review.
 
 We update pricing weekly and remove stale affiliate links within seven days. Corrections welcome at hello@countercrew.org.
+
+## Related reading
+
+- [Best compact air fryers for small counters under 2 square feet](/articles/best-compact-air-fryers-for-small-counters-under-2-square-feet/)
+- [Toaster ovens vs air fryers when counter depth is limited](/articles/toaster-ovens-vs-air-fryers-when-counter-depth-is-limited/)
+- [Compact espresso machines that fit rental counters](/articles/compact-espresso-machines-that-fit-rental-counters/)
+- [Rice cookers with smallest footprint measurements](/articles/rice-cookers-with-smallest-footprint-measurements/)
+- [Mini food processors for apartment galley kitchens](/articles/mini-food-processors-for-apartment-galley-kitchens/)
