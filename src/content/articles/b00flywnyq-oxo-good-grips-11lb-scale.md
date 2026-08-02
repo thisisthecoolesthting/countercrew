@@ -25,6 +25,8 @@ tags:
   - precision
   - measurement
 author: "claire-nakamura"
+publishedAt: '2026-05-13'
+excerpt: 'The OXO 11lb scale pull-out display design, accuracy at low weights, and why kitchen scale precision matters for baking.'
 ---
 # OXO Good Grips 11lb Scale — Accuracy Where It Counts
 

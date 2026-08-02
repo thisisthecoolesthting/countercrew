@@ -25,6 +25,8 @@ tags:
   - blade-steel
   - kitchen-knives
 author: "claire-nakamura"
+publishedAt: '2026-05-13'
+excerpt: 'The Wüsthof Classic versus the Victorinox Fibrox at half the price: edge retention, balance, and who each knife is for.'
 ---
 # Wüsthof Classic 8" Chef's Knife — Is the Premium Worth It?
 

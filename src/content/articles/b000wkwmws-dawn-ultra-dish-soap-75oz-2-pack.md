@@ -23,6 +23,8 @@ tags:
   - dish-soap
   - kitchen
   - household
+publishedAt: '2026-04-24'
+excerpt: 'Dawn dish soap bulk pricing breakdown. Is the 2-pack actually cheaper? We do the per-ounce math and show the best price alert threshold.'
 ---
 # Dawn Ultra 75oz 2-Pack — Per-Ounce Price Breakdown
 
