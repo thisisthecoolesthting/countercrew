@@ -57,6 +57,21 @@ const currentYear = new Date().getFullYear();
 const h1Text = entry.data.targetKeyword
   ? `${entry.data.title} — ${currentYear} Guide`
   : entry.data.title;
+
+const faqs = entry.data.faqs ?? [];
+const stripHtml = (s: string) => s.replace(/<[^>]+>/g, '');
+const faqSchema =
+  faqs.length > 0
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: faqs.map((f) => ({
+          '@type': 'Question',
+          name: f.question,
+          acceptedAnswer: { '@type': 'Answer', text: stripHtml(f.answer) },
+        })),
+      }
+    : null;
 ---
 
 <BaseLayout
@@ -73,6 +88,9 @@ const h1Text = entry.data.targetKeyword
   sectionAdsCompact
 >
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+  {faqSchema && (
+    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  )}
 
   <LongformPageShell
     title={h1Text}
@@ -85,6 +103,20 @@ const h1Text = entry.data.targetKeyword
   >
     <Content />
   </LongformPageShell>
+
+  {faqs.length > 0 && (
+    <div class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-10">
+      <div class="max-w-3xl mx-auto prose prose-base md:prose-lg prose-ink text-left">
+        <h2>Frequently Asked Questions</h2>
+        {faqs.map((f) => (
+          <div class="mb-6">
+            <h3>{f.question}</h3>
+            <p set:html={f.answer} />
+          </div>
+        ))}
+      </div>
+    </div>
+  )}
 
   <div class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-20">
     <NewsletterForm variant="inline" title={nl.title} subtitle={nl.subtitle} />

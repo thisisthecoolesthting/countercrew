@@ -65,6 +65,10 @@ const pillars = defineCollection({
     tags: z.array(z.string()).optional().default([]),
     author: z.string().optional().default('morgan-ellis-countercrew'),
     reviewedAt: z.coerce.date().optional(),
+    faqs: z
+      .array(z.object({ question: z.string(), answer: z.string() }))
+      .optional()
+      .default([]),
   }),
 });
 
