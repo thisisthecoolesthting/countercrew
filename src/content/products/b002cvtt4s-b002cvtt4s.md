@@ -10,7 +10,7 @@ bsr: 498
 commissionPerSale: 0
 score: 0
 imageUrl: "https://m.media-amazon.com/images/I/71WNFW09p4L.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B002CVTT4S?tag=countercrew-20"
+affiliateUrl: ""
 isPrime: false
 status: published
 firstSeen: "2026-08-03"

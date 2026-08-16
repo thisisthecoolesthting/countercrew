@@ -10,7 +10,7 @@ bsr: null
 commissionPerSale: 0
 score: 0
 imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B09G8JFDP9?tag=countercrew-20"
+affiliateUrl: "https://www.amazon.com/dp/B09G8JFDP9"
 isPrime: false
 status: published
 firstSeen: "2026-06-02"

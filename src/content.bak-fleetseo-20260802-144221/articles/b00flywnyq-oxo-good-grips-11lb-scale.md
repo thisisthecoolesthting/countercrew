@@ -14,7 +14,7 @@ bsr: 38
 commissionPerSale: 0.0
 score: 50.9
 imageUrl: "/images/amazon-picks/B00FLYWNYQ.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B00FLYWNYQ?tag=kitchenwise-20&linkCode=ll1&language=en_US"
+affiliateUrl: "https://www.amazon.com/dp/B00FLYWNYQ&language=en_US"
 isPrime: true
 status: "published"
 firstSeen: "2026-05-13T00:00:00+00:00"

@@ -65,7 +65,7 @@ After extensive testing, these are the air fryers that impressed us with their c
 
 ### The All-Around Workhorse: Cosori Pro II 5.8-Quart Air Fryer
 
-For most home cooks, the [Cosori Pro II 5.8-Quart Air Fryer](https://www.amazon.com/dp/B09575J5XQ/?tag=kitchenwise-20) hits the sweet spot. Its 5.8-quart capacity is generous enough for a family of 3-4, easily handling a batch of chicken thighs, a whole bag of fries, or even a small roast. What truly sets it apart is its exceptional cooking consistency. The updated design with a more powerful fan and improved heating element ensures incredibly even cooking and crisping, often with less need for shaking than other basket-style models. We tested it with everything from frozen fish sticks to homemade sweet potato fries, and it consistently delivered golden-brown perfection.
+For most home cooks, the Cosori Pro II 5.8-Quart Air Fryer hits the sweet spot. Its 5.8-quart capacity is generous enough for a family of 3-4, easily handling a batch of chicken thighs, a whole bag of fries, or even a small roast. What truly sets it apart is its exceptional cooking consistency. The updated design with a more powerful fan and improved heating element ensures incredibly even cooking and crisping, often with less need for shaking than other basket-style models. We tested it with everything from frozen fish sticks to homemade sweet potato fries, and it consistently delivered golden-brown perfection.
 
 ## Related reading
 
